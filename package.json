@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "ejs": "^2.4.1",  
     "express": "^4.13.4",
     "socket.io": "^1.4.5"
   },
@@ -14,6 +15,10 @@
   "scripts": {
 	"start": "node app.js"
   },
-  "author": "",
+  "author": "Pavel",
   "license": "ISC"
 }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Revmotiv/t1.git"
+  }
